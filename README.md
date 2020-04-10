@@ -2,7 +2,7 @@
 
 ## Blood pressure prediction
 
-Blood pressure prediction for End-to-end deep learning using bio-signals as input, with a focus on detecting hypertension, which accounts for a significant portion of disease-related mortality, and estimating blood pressure values associated with cardiovascular disease in real-time.
+Blood pressure prediction for End-to-end deep learning using bio-signals as input, with a focus on detecting hypertension, which accounts for a significant portion of disease-related mortality.
 
 ![image](https://user-images.githubusercontent.com/38157496/78991062-06936580-7b73-11ea-9976-bcea468624ae.png)
 
