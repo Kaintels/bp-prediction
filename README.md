@@ -36,6 +36,8 @@ pulse transit time (pulse arrival time)
 
 [8] 박철수, 엄희상, 한승우, 율리순하리야니, "사용자의 혈압을 추정하기 위한 장치 및 방법", 한국특허출원, 10-2019-0179386, 2019
 
+[9] Eom, H.; Lee, D.; Han, S.; Hariyani, Y.S.; Lim, Y.; Sohn, I.; Park, K.; Park, C. End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism. Sensors 2020, 20, 2338. (MDPI and ACS Style)
+
 ## Notice
 
 This repository is only just shown what the author is doing. Therefore, the code is provided as a snippet, and the research data is not disclosed.
